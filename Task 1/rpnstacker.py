@@ -1,6 +1,6 @@
 stack = []
 
-with open("Calc1.stk", "r") as file:
+with open("Task 1/Calc1.stk", "r") as file:
     # Lê cada linha do arquivo
     for line in file:
       line = line.rstrip()
